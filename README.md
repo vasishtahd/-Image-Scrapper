@@ -1,5 +1,5 @@
 # Image Scrapper Tools
-Scripts to download collect all urls of images from web-page and download them.
+Tools to download collect all urls of images from Good Images and Twitter Hashtags and download them.
 
 ## Google Image Scraper
 
