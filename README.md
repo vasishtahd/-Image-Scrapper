@@ -40,9 +40,9 @@ Find this tool in the `Twitter Media Tool` folder.
 
 - Access the url the following url on a web browser to download all the related images 
 
-> `http://localhost:8080/twitter/search/<tag_name>`  
+  `http://localhost:8080/twitter/search/<tag_name>`  
 
->>>  ------------------------ OR -------------------------
+   ------------------------ OR -------------------------
 
 - You can directly run the Twitter.getTweets() function from Java
 
