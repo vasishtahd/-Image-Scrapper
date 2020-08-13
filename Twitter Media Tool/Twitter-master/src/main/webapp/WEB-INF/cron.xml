@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <!-- <cron>
+         <url>/getfromfbtofb</url>
+         <description>Auto Posts on Page</description>
+         <schedule>every 4 hours</schedule>
+     </cron>
+     <cron>
+         <url>/promoteownpageonprofiles</url>
+         <description>Promotion of Pages on Profiles</description>
+         <schedule>every 5 hours</schedule>
+     </cron>
+     <cron>
+         <url>/acceptfriendrequests</url>
+         <description>Accepts automatic Friend Requests</description>
+         <schedule>every 12 hours</schedule>
+     </cron>-->
+    <!-- <cron>
+         <url>/coincalculator/all</url>
+         <description>Coin Calculator</description>
+         <schedule>every 4 minutes</schedule>
+     </cron>
+     <cron>
+         <url>/coincalculator/notifier</url>
+         <description>Notifier - Coin Calculator</description>
+         <schedule>every 2 minutes</schedule>
+     </cron>
+     <cron>
+         <url>/coincalculator/notifier/okexbinance</url>
+         <description>Notifier okexbinance - Coin Calculator</description>
+         <schedule>every 2 minutes</schedule>
+     </cron>
+
+     <cron>
+         <url>/coincalculator/fetch/okex</url>
+         <description>Fetcher Okex - Coin Calculator</description>
+         <schedule>every 2 minutes</schedule>
+     </cron>
+     <cron>
+         <url>/coincalculator/fetch/cobinhood</url>
+         <description>Fetcher Cobinhood- Coin Calculator</description>
+         <schedule>every 2 minutes</schedule>
+     </cron>
+
+     <cron>
+         <url>/coincalculator/coinstatus/fetcher</url>
+         <description>Fetcher CoinStatus - Coin Calculator</description>
+         <schedule>every 30 minutes</schedule>
+     </cron>
+
+     <cron>
+         <url>/coincalculator/appnotifier</url>
+         <description>AppNotifier - Coin Calculator</description>
+         <schedule>every 15 minutes</schedule>
+     </cron>-->
+
+
+    <cron>
+        <url>/coincalculator/fetchhistory/binance</url>
+        <description>Fetcher - Binance</description>
+        <schedule>every 5 minutes</schedule>
+    </cron>
+
+
+   <!-- <cron>
+        <url>/coincalculator/fetchhistory/okex</url>
+        <description>Fetcher - Binance</description>
+        <schedule>every 5 minutes</schedule>
+    </cron>-->
+
+
+    <!--<cron>
+        <url>/instagram/getlistoffollowers</url>
+        <description>Get Dogs Lover Followers - Instagram</description>
+        <schedule>every 12 minutes</schedule>
+    </cron>-->
+
+    <!--<cron>
+        <url>/instagram/getlistoflikers</url>
+        <description>Get Dogs Lover Pic Likers - Instagram</description>
+        <schedule>every 12 minutes</schedule>
+    </cron>-->
+
+    <!-- <cron>
+         <url>/instagram/unfollowusers</url>
+         <description>Get Dogs Lover Pic Likers - Instagram</description>
+         <schedule>every 8 minutes</schedule>
+     </cron>
+
+     <cron>
+         <url>/gram/fetchusers</url>
+         <description>Get Users from Gram - Instagram</description>
+         <schedule>every 2 minutes</schedule>
+     </cron>-->
+
+
+    <!-- <cron>
+         <url>/instagram/followlikers</url>
+         <description>Follow Dogs Lover Pic Likers - Instagram</description>
+         <schedule>every 15 minutes</schedule>
+     </cron>-->
+
+    <!--  <cron>
+          <url>/likestar/selfgainorder</url>
+          <description>LikeStar SelfGainFollowers - Instagram</description>
+          <schedule>every 2 minutes</schedule>
+      </cron>
+
+      <cron>
+          <url>/followforfollow/gainpoints</url>
+          <description>RealFollowersPlus - Instagram</description>
+          <schedule>every 20 minutes</schedule>
+      </cron>-->
+
+
+    <!-- <cron>
+         <url>/likestar/gainpoints</url>
+         <description>LikeStar GainFollowers - Instagram</description>
+         <schedule>every 1 minutes</schedule>
+     </cron>-->
+
+
+    <!-- <cron>
+         <url>/instagram/followusers</url>
+         <description>Follow Dog Lovers Followers - Instagram</description>
+         <schedule>every 5 minutes</schedule>
+     </cron>-->
+
+
+    <!-- <cron>
+         <url>/coincalculator/automate/okexlivecoin</url>
+         <description>Coin Transfer - okexlivecoin</description>
+         <schedule>every 2 minutes</schedule>
+     </cron>-->
+
+
+    <!-- <cron>
+         <url>/tweets/weareswiggy</url>
+         <description>We Are Swiggy Tweets to Slack</description>
+         <schedule>every 30 minutes</schedule>
+     </cron> -->
+
+    <!-- <cron>
+         <url>/instagram/unfollowcurrentusers</url>
+         <description>Unfollowing curent  users</description>
+         <schedule>every 10 minutes</schedule>
+     </cron>-->
+
+     <cron>
+        <url>/tweets/getfollowers/GoodRx</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+     </cron>
+
+    <cron>
+        <url>/tweets/getfollowers/PillPack</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+
+    <cron>
+        <url>/tweets/getfollowers/blinkhealth</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+
+    <cron>
+        <url>/tweets/getfollowers/honeybeehealth_</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+    <cron>
+        <url>/tweets/getfollowers/hoyhealth</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+    <cron>
+        <url>/tweets/getfollowers/rxrevu?lang=en</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+
+    <cron>
+        <url>/tweets/getfollowers/trustycare</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+
+    <cron>
+        <url>/tweets/getfollowers/zipdrug</url>
+        <description>Getting followers</description>
+        <schedule>every 15 minutes</schedule>
+    </cron>
+
+    <!-- <cron>
+          <url>/instagram/getmyfollowers</url>
+          <description>Get My Followers - Instagram</description>
+          <schedule>every 12 minutes</schedule>
+      </cron>-->
+
+    <!-- <cron>
+         <url>/instagram/fetchuserinfo</url>
+         <description>Update My Followers information - Instagram</description>
+         <schedule>every 12 minutes</schedule>
+     </cron>-->
+
+    <!-- <cron>
+         <url>/tweets/unfollow</url>
+         <description>UnFollowing Users</description>
+         <schedule>every 3 minutes</schedule>
+     </cron>-->
+
+
+    <!--<cron>
+      <url>/tweets/sendtwitterfollowrequest</url>
+      <description>Sending follow request - 30 mins is safe</description>
+      <schedule>every 10 minutes</schedule>
+   </cron>-->
+</cronentries>
